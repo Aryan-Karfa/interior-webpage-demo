@@ -21,9 +21,9 @@ export const services = [
   },
   {
     id: "bespoke-living-spaces",
-    title: "Living Room & Social Salons",
+    title: "Living Rooms & Formal Lounges",
     category: "Signature Spaces",
-    shortDescription: "Immersive formal and informal living salons designed for entertaining and relaxed family connection.",
+    shortDescription: "Immersive formal and informal living lounges designed for entertaining and relaxed family connection.",
     longDescription: "We design living spaces with curated focal points—sculptural fireplace surrounds, architectural ceiling treatments, and tailored seating compositions that balance grand volume with tactile comfort.",
     image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
     scope: "Zoned conversation layouts, bespoke acoustic wall panelling, statement lighting curation, and custom rugs.",
@@ -90,7 +90,7 @@ export const services = [
   {
     id: "furniture-styling",
     title: "Furniture, Art & Bespoke Styling",
-    category: "Atelier Curation",
+    category: "Custom Styling",
     shortDescription: "Fine art curation, custom limited-edition furniture fabrication, and turnkey finishing.",
     longDescription: "The final layer of soul in any interior. We collaborate with master Italian and Indian artisans to produce unique dining tables, credenzas, and sculptural seating, paired with original paintings, sculptures, and antique objects.",
     image: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",

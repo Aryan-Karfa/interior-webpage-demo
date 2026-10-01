@@ -4,7 +4,7 @@
 
 export const galleryCategories = [
   { id: "ALL", label: "All Works" },
-  { id: "LIVING", label: "Living Salons" },
+  { id: "LIVING", label: "Living Lounges" },
   { id: "PENTHOUSES", label: "Penthouses" },
   { id: "KITCHEN & DINING", label: "Kitchen & Dining" },
   { id: "COMMERCIAL", label: "Commercial" },
@@ -16,7 +16,7 @@ export const galleryItems = [
     id: 1,
     title: "The Alipore Glass Villa Living Pavilion",
     category: "LIVING",
-    categoryLabel: "Living Salons",
+    categoryLabel: "Living Lounges",
     location: "Kolkata, Alipore",
     year: "2025",
     scope: "Architectural Remodeling & Interior Architecture",
@@ -79,9 +79,9 @@ export const galleryItems = [
   },
   {
     id: 6,
-    title: "Ballygunge Heritage Salon & Reading Room",
+    title: "Ballygunge Heritage Lounge & Reading Room",
     category: "LIVING",
-    categoryLabel: "Living Salons",
+    categoryLabel: "Living Lounges",
     location: "Kolkata, Ballygunge Park",
     year: "2024",
     scope: "Historic Restoration & Furnishing",
@@ -105,7 +105,7 @@ export const galleryItems = [
   },
   {
     id: 8,
-    title: "Cenote Floating Dining Table & Wine Salon",
+    title: "Coastal Dining Pavilion & Private Wine Room",
     category: "KITCHEN & DINING",
     categoryLabel: "Kitchen & Dining",
     location: "Goa, Assagao",
@@ -131,7 +131,7 @@ export const galleryItems = [
   },
   {
     id: 10,
-    title: "Atelier Vélène Flagship Client Presentation Salon",
+    title: "Interior Demo Flagship Presentation Suite",
     category: "COMMERCIAL",
     categoryLabel: "Commercial",
     location: "Kolkata, Camac Street",
@@ -140,7 +140,7 @@ export const galleryItems = [
     aspectRatio: "landscape",
     image: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&w=1800&q=85",
     thumbnail: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&w=900&q=80",
-    description: "Our own design atelier featuring floor-to-ceiling stone sample vitrines, tactile fabric drawers, and custom ambient color-true lighting."
+    description: "Our studio presentation suite featuring floor-to-ceiling stone sample displays, tactile fabric drawers, and custom ambient color-true lighting."
   }
 ];
 

@@ -88,7 +88,7 @@ export default function Contact() {
             <div className="bg-white border border-neutral-border p-6 shadow-subtle">
               <div className="flex items-center justify-between pb-3 border-b border-neutral-border/60 mb-4">
                 <h3 className="font-serif text-lg font-bold text-navy-900">
-                  Presentation Ateliers
+                  Presentation Studios
                 </h3>
                 {/* Tabs to switch studio preview */}
                 <div className="flex items-center gap-1 bg-neutral-100 p-1 border border-neutral-200">
@@ -145,7 +145,7 @@ export default function Contact() {
               <div className="p-3 bg-neutral-subtle border-b border-neutral-border flex items-center justify-between text-xs">
                 <span className="font-medium text-navy-900 flex items-center gap-1.5">
                   <MapPin size={13} className="text-gold" />
-                  <span>{activeStudio.city} Atelier Map Placeholder</span>
+                  <span>{activeStudio.city} Studio Map Placeholder</span>
                 </span>
                 <a
                   href={activeStudio.mapUrl}

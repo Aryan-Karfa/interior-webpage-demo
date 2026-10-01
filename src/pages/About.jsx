@@ -21,7 +21,7 @@ export default function About() {
               Shaping Architectural Sanctuaries With Tactile Restraint.
             </h1>
             <p className="mt-6 text-base sm:text-lg text-neutral-600 font-light leading-relaxed">
-              Atelier Vélène was established in 2012 out of a conviction that contemporary luxury is not ostentation, but the sensory ease of honest stone, natural light, and spaces tuned to the quiet rhythms of life.
+              Interior Demo was established in 2012 out of a conviction that contemporary luxury is not ostentation, but the sensory ease of honest stone, natural light, and spaces tuned to the quiet rhythms of life.
             </p>
           </div>
 
@@ -102,7 +102,7 @@ export default function About() {
               Philosophical Foundation
             </span>
             <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold text-navy-900">
-              The Four Tenets of Our Atelier
+              The Four Principles of Our Studio
             </h2>
             <p className="mt-3 text-xs sm:text-sm text-neutral-500 font-light">
               Every floor plan, material joint, and luminaire specification is guided by these enduring commitments.

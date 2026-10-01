@@ -21,7 +21,7 @@ export default function SocialLinks({ variant = 'default', className = '' }) {
         href={socialLinks.instagram.url}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Follow Atelier Vélène on Instagram"
+        aria-label="Follow Interior Demo on Instagram"
         className={`w-10 h-10 rounded-full border flex items-center justify-center transition-all duration-300 transform hover:-translate-y-0.5 shadow-sm ${baseBtnClass}`}
       >
         <Instagram size={18} strokeWidth={1.75} />
@@ -32,7 +32,7 @@ export default function SocialLinks({ variant = 'default', className = '' }) {
         href={socialLinks.facebook.url}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Follow Atelier Vélène on Facebook"
+        aria-label="Follow Interior Demo on Facebook"
         className={`w-10 h-10 rounded-full border flex items-center justify-center transition-all duration-300 transform hover:-translate-y-0.5 shadow-sm ${baseBtnClass}`}
       >
         <Facebook size={18} strokeWidth={1.75} />
@@ -43,7 +43,7 @@ export default function SocialLinks({ variant = 'default', className = '' }) {
         href={socialLinks.whatsapp.url}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Chat with Atelier Vélène Concierge on WhatsApp"
+        aria-label="Chat with Interior Demo Concierge on WhatsApp"
         className={`w-10 h-10 rounded-full border flex items-center justify-center transition-all duration-300 transform hover:-translate-y-0.5 shadow-sm ${
           isDark
             ? 'text-gold-light border-gold/30 hover:border-gold bg-gold/10 hover:bg-gold/20'

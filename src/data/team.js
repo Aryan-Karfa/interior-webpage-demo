@@ -10,7 +10,7 @@ export const studioMetrics = [
 export const teamMembers = [
   {
     id: 1,
-    name: "Ar. Aarav Vélène Sen",
+    name: "Ar. Aarav Sen",
     role: "Founding Principal & Design Director",
     credentials: "B.Arch (SPA Delhi), M.Des Interior Architecture (Milan)",
     bio: "With over 18 years shaping distinguished private residences, Aarav bridges classical proportions with luminous modern materiality, believing true luxury lies in quiet restraint and impeccable craftsmanship.",
@@ -31,7 +31,7 @@ export const teamMembers = [
     name: "Karan Malhotra",
     role: "Director of Material Procurement & Styling",
     credentials: "NID Ahmedabad (Furniture & Textile Design)",
-    bio: "Karan works directly with heritage marble quarries in Carrara and Makrana, bespoke weaving houses in Varanasi, and artisan metal ateliers to curate one-of-a-kind tactile surfaces.",
+    bio: "Karan works directly with heritage marble quarries in Carrara and Makrana, bespoke weaving houses in Varanasi, and artisan metal workshops to curate one-of-a-kind tactile surfaces.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
     quote: "True beauty emerges when materials are allowed to tell their own geological and human story."
   },
@@ -49,7 +49,7 @@ export const teamMembers = [
 export const studioTimeline = [
   {
     year: "2012",
-    title: "Founding of the Atelier",
+    title: "Founding of the Studio",
     description: "Established in Kolkata with an initial focus on heritage townhouse restorations and bespoke residential joinery."
   },
   {

@@ -58,10 +58,10 @@ export default function Navbar() {
               className="group flex flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-gold"
             >
               <span className="font-serif tracking-ultra-wide text-lg sm:text-xl md:text-2xl font-semibold text-navy-900 group-hover:text-gold transition-colors duration-300">
-                ATELIER VÉLÈNE
+                INTERIOR DEMO
               </span>
               <span className="text-[9px] sm:text-[10px] tracking-widest-luxury uppercase text-neutral-muted group-hover:text-navy-800 transition-colors">
-                Architecture & Interiors
+                Interior Design & Architecture
               </span>
             </Link>
 
@@ -138,10 +138,10 @@ export default function Navbar() {
               <div className="flex items-center justify-between pb-6 border-b border-neutral-border">
                 <div className="flex flex-col">
                   <span className="font-serif tracking-wider text-lg font-bold text-navy-900">
-                    ATELIER VÉLÈNE
+                    INTERIOR DEMO
                   </span>
                   <span className="text-[9px] tracking-widest-luxury uppercase text-neutral-muted">
-                    Architecture & Interiors
+                    Interior Design & Architecture
                   </span>
                 </div>
                 <button

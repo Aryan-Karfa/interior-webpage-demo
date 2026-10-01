@@ -114,7 +114,7 @@ export default function ContactForm() {
         <div className="mt-6 p-4 bg-neutral-subtle border border-neutral-border text-xs text-neutral-500 max-w-md mx-auto text-left space-y-1">
           <div className="flex justify-between">
             <span>Client Reference:</span>
-            <span className="font-mono text-navy-900">#AV-{Math.floor(100000 + Math.random() * 900000)}</span>
+            <span className="font-mono text-navy-900">#ID-{Math.floor(100000 + Math.random() * 900000)}</span>
           </div>
           <div className="flex justify-between">
             <span>Direct Follow-up:</span>

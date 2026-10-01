@@ -97,8 +97,11 @@ export default function CircularCarousel() {
             <span>Curated Portfolio Reel</span>
           </div>
           <h1 className="font-serif text-xl sm:text-2xl md:text-3xl text-navy-900 font-bold tracking-wide mt-1">
-            ATELIER VÉLÈNE
+            INTERIOR DEMO
           </h1>
+          <p className="text-[10px] tracking-widest-luxury uppercase text-neutral-muted">
+            Interior Design & Architecture
+          </p>
         </div>
 
         {/* Enter Studio Primary CTA */}

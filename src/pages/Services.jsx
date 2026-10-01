@@ -64,7 +64,7 @@ export default function Services() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-2xl mx-auto mb-16">
             <span className="text-xs font-semibold uppercase tracking-widest text-gold block mb-2">
-              The Atelier Method
+              The Studio Method
             </span>
             <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold text-navy-900">
               Four Phases to Architectural Perfection
@@ -92,7 +92,7 @@ export default function Services() {
                   </p>
                 </div>
                 <div className="mt-6 pt-3 border-t border-neutral-border/60 text-[10px] font-mono text-neutral-400 uppercase tracking-widest">
-                  Atelier Phase {st.step}
+                  Studio Phase {st.step}
                 </div>
               </div>
             ))}

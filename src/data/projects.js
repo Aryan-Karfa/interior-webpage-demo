@@ -28,7 +28,7 @@ export const projects = [
     area: "6,200 sq.ft",
     image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
     thumbnail: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
-    description: "Perched 42 floors above the Arabian Sea, this penthouse harmonizes fluted wall paneling, curved Italian bouclé seating, and brass architectural accents.",
+    description: "Perched 42 floors above the Arabian Sea, this penthouse harmonizes fluted wall paneling, curved tailored Italian seating, and brass architectural accents.",
     quote: "Panoramic ocean vistas balanced with intimate, tactile residential moments.",
     highlights: ["Curved acoustic timber partitions", "Calacatta gold marble island", "Integrated mood illumination"]
   },
@@ -64,8 +64,8 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Maison Étoile Heritage Apartment",
-    slug: "maison-etoile",
+    title: "Heritage Park Manor Residence",
+    slug: "heritage-park-manor",
     category: "Heritage Restoration",
     tag: "Historic Renovation",
     location: "Kolkata, Ballygunge Park",

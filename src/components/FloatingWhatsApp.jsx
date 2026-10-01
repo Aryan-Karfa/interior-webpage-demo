@@ -27,7 +27,7 @@ export default function FloatingWhatsApp() {
         href={socialLinks.whatsapp.url}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Connect with Atelier Vélène via WhatsApp"
+        aria-label="Connect with Interior Demo via WhatsApp"
         className="group relative flex items-center justify-center w-13 h-13 p-3.5 bg-navy-900 text-gold-light hover:text-white rounded-full border border-gold/40 shadow-luxury hover:shadow-gold-glow hover:border-gold transition-all duration-300 transform hover:scale-105"
       >
         <MessageCircle size={24} className="text-gold-light group-hover:scale-110 transition-transform duration-300" />

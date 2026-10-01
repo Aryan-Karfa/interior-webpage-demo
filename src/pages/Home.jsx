@@ -35,7 +35,7 @@ export default function Home() {
               </h1>
 
               <p className="text-base sm:text-lg text-neutral-600 font-light leading-relaxed max-w-xl">
-                Atelier Vélène orchestrates luminous, warm, and transcendent environments. We balance classical architectural proportions with tactile materials—raw travertine, fumed oak, and unlacquered brass.
+                Interior Demo orchestrates luminous, warm, and transcendent environments. We balance classical architectural proportions with tactile materials—raw travertine, fumed oak, and unlacquered brass.
               </p>
 
               {/* CTAs */}
@@ -76,7 +76,7 @@ export default function Home() {
               <div className="relative aspect-[4/5] sm:aspect-[3/4] overflow-hidden border border-gold/40 shadow-luxury bg-neutral-100">
                 <img
                   src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
-                  alt="Atelier Vélène Luxury Living Sanctuary"
+                  alt="Interior Demo Luxury Living Sanctuary"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-navy-950/60 via-transparent to-transparent"></div>
@@ -114,7 +114,7 @@ export default function Home() {
               <div className="aspect-[4/3] sm:aspect-[16/11] overflow-hidden border border-neutral-border shadow-elevated">
                 <img
                   src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80"
-                  alt="Materiality and Craftsmanship at Atelier Vélène"
+                  alt="Materiality and Craftsmanship at Interior Demo"
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -133,7 +133,7 @@ export default function Home() {
             <div className="lg:col-span-7 space-y-6 order-1 lg:order-2">
               <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-gold">
                 <Sparkles size={14} />
-                <span>The Atelier Philosophy</span>
+                <span>The Studio Philosophy</span>
               </div>
 
               <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold text-navy-900 leading-snug">
@@ -141,7 +141,7 @@ export default function Home() {
               </h2>
 
               <p className="text-sm sm:text-base text-neutral-600 font-light leading-relaxed">
-                Founded on the belief that spatial volume directly governs peace of mind, Atelier Vélène crafts spaces that celebrate quiet elegance. We collaborate directly with historic quarries in Italy and master woodworking guilds across India to curate bespoke environments that mature gracefully over generations.
+                Founded on the belief that spatial volume directly governs peace of mind, Interior Demo crafts spaces that celebrate quiet elegance. We collaborate directly with historic quarries in Italy and master woodworking guilds across India to curate bespoke environments that mature gracefully over generations.
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4 text-xs">
@@ -249,7 +249,7 @@ export default function Home() {
               Our Studio Locations
             </h2>
             <p className="mt-3 text-xs sm:text-sm text-neutral-500 font-light">
-              Visit our presentation ateliers for private material viewings, CAD walkthroughs, and bespoke consultations by appointment.
+              Visit our presentation studios for private material viewings, CAD walkthroughs, and bespoke consultations by appointment.
             </p>
           </div>
 

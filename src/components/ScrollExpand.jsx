@@ -58,8 +58,8 @@ export default function ScrollExpand() {
       id: 2,
       x: '68%',
       y: '58%',
-      title: 'Italian Bouclé & Custom Seating',
-      description: 'Custom organic silhouettes upholstered in low-sheen textured wool bouclé.'
+      title: 'Tailored Italian Seating',
+      description: 'Custom organic silhouettes upholstered in low-sheen textured wool.'
     },
     {
       id: 3,
@@ -103,7 +103,7 @@ export default function ScrollExpand() {
           <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full min-h-[380px] sm:min-h-[460px] md:min-h-[580px] overflow-hidden bg-navy-900">
             <img
               src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2200&q=85"
-              alt="Atelier Vélène Signature Architectural Living Pavilion"
+              alt="Interior Demo Signature Living Pavilion"
               className="w-full h-full object-cover transition-transform duration-700 ease-out"
               style={{
                 transform: `scale(${imageScale})`

@@ -28,10 +28,10 @@ export default function Footer() {
           <div className="lg:col-span-4 space-y-5">
             <div>
               <span className="font-serif tracking-ultra-wide text-2xl font-bold text-white block">
-                ATELIER VÉLÈNE
+                INTERIOR DEMO
               </span>
               <span className="text-[10px] tracking-widest-luxury uppercase text-gold-light font-medium">
-                Architecture & Interior Design Studio
+                Interior Design & Architecture
               </span>
             </div>
             <p className="text-sm text-neutral-300 font-light leading-relaxed max-w-sm">
@@ -39,7 +39,7 @@ export default function Footer() {
             </p>
             <div className="pt-2">
               <span className="text-xs uppercase tracking-wider text-gold/80 block mb-2.5 font-medium">
-                Connect With The Atelier
+                Connect With Our Studio
               </span>
               <SocialLinks variant="dark" />
             </div>
@@ -139,7 +139,7 @@ export default function Footer() {
         {/* Bottom Bar: Copyright & Subtle Accreditation */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-neutral-400 gap-4">
           <div className="flex items-center gap-2">
-            <span>© {new Date().getFullYear()} Atelier Vélène Architecture & Interiors.</span>
+            <span>© {new Date().getFullYear()} Interior Demo | Interior Design & Architecture.</span>
             <span className="hidden sm:inline text-neutral-600">|</span>
             <span className="text-[11px] text-neutral-400">All Rights Reserved.</span>
           </div>
